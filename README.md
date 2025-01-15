@@ -10,7 +10,7 @@ Canva
 
 ## 🧐 Processo de Criação
 Usei o Gemini para sugestão de um criador de imagens gratuito.
-A foto foi gerada no Bing Creator e o Canva foi utilizado para formatar o post de rede social
+A foto de exemplo foi gerada no Bing Creator e o Canva foi utilizado para aprimorar a foto e criar a tela em formato de print de celular
 
 ## 🚀 Resultados
 Print do Celular
